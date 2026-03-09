@@ -1,4 +1,4 @@
-<script src="https://wwcdn.weixin.qq.com/node/open/js/wecom-jssdk-1.3.1.js"></script>
+<script src="https://wwcdn.weixin.qq.com/node/open/js/wecom-jssdk-2.3.4.js"></script>
 <script>
 function clean(){
 	jQuery("form#loginform").empty().append('<div id="login-b" style="justify-content: center; display: flex; width: 100%%;"></div>');
